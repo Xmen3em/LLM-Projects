@@ -64,7 +64,7 @@ This will launch a web interface where you can enter your query and get insights
 
 Here is an example of the Streamlit application in action:
 
-
+https://github.com/user-attachments/assets/1b1dec0d-e900-451d-a4db-ed52bee514a4
 
 
 ### Gradio Interface
