@@ -1,5 +1,5 @@
 # AI Search Assistant
-This repository enables AI-powered search and insights generation using LangGraph and OpenAI's GPT-4o, leveraging both Tavily and DuckDuckGo search tools. The project facilitates intelligent web searching and content processing to provide insightful responses based on user queries.
+This repository enables AI-powered search and insights generation using LangGraph and Groq's Model, leveraging both Tavily and DuckDuckGo search tools. The project facilitates intelligent web searching and content processing to provide insightful responses based on user queries.
 
 ## Table of Contents
 - [Introduction](#introduction)
