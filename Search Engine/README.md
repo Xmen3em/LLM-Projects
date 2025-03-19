@@ -1,5 +1,5 @@
-# LLM-Projects
-This repository enables AI-powered search and insights generation using LangGraph and OpenAI's GPT-4o, leveraging both Tavily and DuckDuckGo search tools. The project facilitates intelligent web searching and content processing to provide insightful responses based on user queries.
+# AI Search Assistant
+This repository enables AI-powered search and insights generation using LangGraph and Groq's Model, leveraging both Tavily and DuckDuckGo search tools. The project facilitates intelligent web searching and content processing to provide insightful responses based on user queries.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -64,7 +64,7 @@ This will launch a web interface where you can enter your query and get insights
 
 Here is an example of the Streamlit application in action:
 
-
+https://github.com/user-attachments/assets/1b1dec0d-e900-451d-a4db-ed52bee514a4
 
 
 ### Gradio Interface
