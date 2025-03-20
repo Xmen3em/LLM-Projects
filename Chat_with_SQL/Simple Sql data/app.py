@@ -10,6 +10,7 @@ import sqlite3
 from langchain_groq import ChatGroq
 from dotenv import load_dotenv
 import os
+from urllib.parse import quote_plus
 
 load_dotenv()
 api_key=os.getenv("GROQ_API_KEY")
@@ -51,7 +52,8 @@ def configure_db(db_uri,mysql_host=None,mysql_user=None,mysql_password=None,mysq
         if not (mysql_host and mysql_user and mysql_password and mysql_db):
             st.error("Please provide all MySQL connection details.")
             st.stop()
-        return SQLDatabase(create_engine(f"mysql+mysqlconnector://{mysql_user}:{mysql_password}@{mysql_host}/{mysql_db}"))   
+        encoded_password = quote_plus(mysql_password)
+        return SQLDatabase(create_engine(f"mysql+mysqlconnector://{mysql_user}:{encoded_password}@{mysql_host}/{mysql_db}"))   
     
 if db_uri==MYSQL:
     db=configure_db(db_uri,mysql_host,mysql_user,mysql_password,mysql_db)
