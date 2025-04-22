@@ -5,4 +5,5 @@
 |--------------|--------------|
 | Agentic Search with GROQ and LangGraph | [Search Engine](https://github.com/Xmen3em/LLM-Projects/tree/main/Search%20Engine) |
 | Build a Question/Answering System Over Sql Data | [Chat with SQL](https://github.com/Xmen3em/LLM-Projects/tree/main/Chat_with_SQL) |
+| Search Engine through Hotels Dataset | [Miami hotels Search Engine](https://github.com/Xmen3em/LLM-Projects/tree/main/Hotels%20Dataset%20Project)
 | Building Retrieval Augmented Generation (RAG) Systems | [Retrieval Systems]() |
