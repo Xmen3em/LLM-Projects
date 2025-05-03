@@ -1,0 +1,51 @@
+first_name,last_name,position,phone_number,email,department,hire_date,salary
+Emily,Davis,Sales Associate,(555) 112-2334,emily.davis@dealership.com,Sales,2022-01-15,50000
+Michael,Brown,Service Technician,(555) 223-3445,michael.brown@dealership.com,Service,2021-06-01,45000
+James,Smith,Sales Manager,(555) 334-4556,james.smith@dealership.com,Sales,2021-03-15,65000
+Jennifer,Johnson,Parts Specialist,(555) 445-5667,jennifer.johnson@dealership.com,Parts,2022-04-01,42000
+Robert,Williams,Service Advisor,(555) 556-6778,robert.williams@dealership.com,Service,2021-08-15,48000
+Lisa,Jones,Marketing Coordinator,(555) 667-7889,lisa.jones@dealership.com,Marketing,2022-09-01,52000
+David,Miller,Sales Associate,(555) 778-8990,david.miller@dealership.com,Sales,2022-11-15,50000
+Mary,Taylor,HR Manager,(555) 889-9001,mary.taylor@dealership.com,Admin,2021-01-15,70000
+John,Anderson,Service Technician,(555) 990-0112,john.anderson@dealership.com,Service,2022-07-01,45000
+Patricia,Thomas,Accountant,(555) 001-1223,patricia.thomas@dealership.com,Admin,2021-12-15,60000
+Christopher,Jackson,Sales Associate,(555) 112-2334,christopher.jackson@dealership.com,Sales,2023-01-15,50000
+Elizabeth,White,Parts Manager,(555) 223-3445,elizabeth.white@dealership.com,Parts,2021-05-01,62000
+Daniel,Harris,Service Technician,(555) 334-4556,daniel.harris@dealership.com,Service,2022-03-15,45000
+Margaret,Martin,Customer Service Rep,(555) 445-5667,margaret.martin@dealership.com,Sales,2022-08-01,48000
+Joseph,Thompson,Sales Associate,(555) 556-6778,joseph.thompson@dealership.com,Sales,2023-02-15,50000
+Nancy,Garcia,Service Advisor,(555) 667-7889,nancy.garcia@dealership.com,Service,2021-10-01,48000
+Paul,Martinez,Parts Specialist,(555) 778-8990,paul.martinez@dealership.com,Parts,2022-06-15,42000
+Sandra,Robinson,Marketing Manager,(555) 889-9001,sandra.robinson@dealership.com,Marketing,2021-04-01,68000
+Kevin,Clark,Service Technician,(555) 990-0112,kevin.clark@dealership.com,Service,2022-12-15,45000
+Ashley,Rodriguez,Sales Associate,(555) 001-1223,ashley.rodriguez@dealership.com,Sales,2023-03-01,50000
+Steven,Lewis,IT Specialist,(555) 112-2334,steven.lewis@dealership.com,Admin,2021-07-15,58000
+Kimberly,Lee,Service Advisor,(555) 223-3445,kimberly.lee@dealership.com,Service,2022-05-01,48000
+Edward,Walker,Sales Associate,(555) 334-4556,edward.walker@dealership.com,Sales,2023-01-15,50000
+Michelle,Hall,Parts Specialist,(555) 445-5667,michelle.hall@dealership.com,Parts,2022-10-01,42000
+Brian,Allen,Service Technician,(555) 556-6778,brian.allen@dealership.com,Service,2021-09-15,45000
+Laura,Young,Customer Service Rep,(555) 667-7889,laura.young@dealership.com,Sales,2022-07-01,48000
+Ronald,King,Sales Associate,(555) 778-8990,ronald.king@dealership.com,Sales,2023-02-15,50000
+Amanda,Wright,HR Coordinator,(555) 889-9001,amanda.wright@dealership.com,Admin,2021-11-01,54000
+Jason,Lopez,Service Technician,(555) 990-0112,jason.lopez@dealership.com,Service,2022-08-15,45000
+Melissa,Hill,Marketing Specialist,(555) 001-1223,melissa.hill@dealership.com,Marketing,2022-03-01,52000
+Jeffrey,Scott,Sales Associate,(555) 112-2334,jeffrey.scott@dealership.com,Sales,2023-03-15,50000
+Amy,Green,Parts Specialist,(555) 223-3445,amy.green@dealership.com,Parts,2022-01-01,42000
+Ryan,Adams,Service Advisor,(555) 334-4556,ryan.adams@dealership.com,Service,2021-12-15,48000
+Rebecca,Baker,Accountant,(555) 445-5667,rebecca.baker@dealership.com,Admin,2021-08-01,60000
+Gary,Nelson,Sales Associate,(555) 556-6778,gary.nelson@dealership.com,Sales,2023-01-15,50000
+Sharon,Carter,Service Technician,(555) 667-7889,sharon.carter@dealership.com,Service,2022-06-01,45000
+Eric,Mitchell,Parts Manager,(555) 778-8990,eric.mitchell@dealership.com,Parts,2021-03-15,62000
+Cynthia,Perez,Customer Service Rep,(555) 889-9001,cynthia.perez@dealership.com,Sales,2022-11-01,48000
+Kenneth,Roberts,Sales Associate,(555) 990-0112,kenneth.roberts@dealership.com,Sales,2023-02-15,50000
+Kathleen,Turner,Service Advisor,(555) 001-1223,kathleen.turner@dealership.com,Service,2021-10-15,48000
+Stephen,Phillips,IT Manager,(555) 112-2334,stephen.phillips@dealership.com,Admin,2021-02-01,72000
+Deborah,Campbell,Sales Associate,(555) 223-3445,deborah.campbell@dealership.com,Sales,2023-03-15,50000
+Mark,Parker,Service Technician,(555) 334-4556,mark.parker@dealership.com,Service,2022-09-01,45000
+Julie,Evans,Parts Specialist,(555) 445-5667,julie.evans@dealership.com,Parts,2022-05-15,42000
+Donald,Edwards,Marketing Coordinator,(555) 556-6778,donald.edwards@dealership.com,Marketing,2022-02-01,52000
+Karen,Collins,Sales Associate,(555) 667-7889,karen.collins@dealership.com,Sales,2023-01-15,50000
+Timothy,Stewart,Service Technician,(555) 778-8990,timothy.stewart@dealership.com,Service,2022-07-01,45000
+Virginia,Morris,Customer Service Rep,(555) 889-9001,virginia.morris@dealership.com,Sales,2022-12-15,48000
+Peter,Rogers,Parts Specialist,(555) 990-0112,peter.rogers@dealership.com,Parts,2022-04-01,42000
+Sarah,Wilson,Finance Manager,(555) 998-8776,sarah.wilson@dealership.com,Admin,2023-03-10,75000
