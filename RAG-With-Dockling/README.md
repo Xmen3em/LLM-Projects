@@ -17,6 +17,8 @@ This project leverages LlamaIndex and IBM's Docling for RAG over excel sheets. Y
    ollama pull qwen3
    ```
 
+![](https://github.com/Xmen3em/LLM-Projects/blob/main/RAG-With-Dockling/Screenshot%202025-05-09%20101105.png)
+
 ---
 
 ## Contribution
