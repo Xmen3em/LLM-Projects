@@ -11,4 +11,4 @@
 | Text Summarization Using different Methods(stuff, refine, map reduce) | [Text Summarization App](https://github.com/Xmen3em/LLM-Projects/tree/main/Text-Summarization) |
 | Chat with Postgres Database (cars, sales, customers,etc..) | [CDMS AI Assistance](https://github.com/Xmen3em/LLM-Projects/tree/main/Chat%20With%20Postgres%20Database) |
 | Chat WIth Excel Files Using (ollama - Groq) Models (Qween, llama,..) | [RAG With Dockling](https://github.com/Xmen3em/LLM-Projects/tree/main/RAG-With-Dockling) |
-| Text to Math Problem Solver App | [Problem Solver](https://github.com/Xmen3em/LLM-Projects/tree/main/Problem%20Solver) |
+| Text to Math Problem Solver App | [Problem Solver](https://github.com/Xmen3em/LLM-Projects/tree/main/Text%20to%20Math%20Problem%20Solver%20app) |
