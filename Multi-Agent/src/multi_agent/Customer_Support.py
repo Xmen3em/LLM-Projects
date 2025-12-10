@@ -4,7 +4,7 @@ warnings.filterwarnings("ignore")
 from crewai import Agent, Task, Crew
 
 import os 
-from utils import get_llm_api_key   # <-- get it from huggingface 
+from utils import get_llm_api_key   
 from IPython.display import Markdown
 
 
