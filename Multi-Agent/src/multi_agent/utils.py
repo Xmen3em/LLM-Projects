@@ -39,3 +39,8 @@ def pretty_print_result(result):
       else:
           parsed_result.append(line)
   return "\n".join(parsed_result)
+
+def get_huggingface_api_key():
+    load_env()
+    huggingface_api_key = os.getenv("HF_TOKEN")
+    return huggingface_api_key
